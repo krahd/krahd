@@ -1,16 +1,18 @@
-## Hi there 👋
+# Tom
+**Tomas Laurenzo**’s life combines work and other activities which, through an ever-changing configuration of re-entrant processes of feedback and tension, aim to realise positive changes in the human condition.
 
-<!--
-**krahd/krahd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Laurenzo's efforts are mainly organised through serving as Associate Professor of Critical Media Practices at the [College of Media, Communication and Information](https://www.colorado.edu/cmci), [University of Colorado Boulder](https://www.colorado.edu), often taking the form of academic research, artistic practice, public speaking, and teaching.
 
-Here are some ideas to get you started:
+His academic pursuits embrace various epistemological frameworks, enabling research in areas such as artificial intelligence, human-computer interaction, virtual reality, augmented reality, art theory, human perception, data visualisation, cognitive psychology, political science, philosophy, visualisation, computer graphics, digital lutherie, and aesthetics.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Resulting [publications](https://laurenzo.net/texts/) span book chapters, essays, processes, and research papers. Some of them have been published by SIGGraph Asia, NIME, ISEA, NeurIPS, ECCV, Sónar+D, Mutek, and TEI.
+
+A substantial portion of Laurenzo's life correlates with the execution of a multifaceted and extensive portfolio of artistic creations across diverse forms and mediums. This collection includes literary works of prose and poetry, as well as music compositions, concerts, and performances. His visual and interactive art explore installation, interactive art, video, live cinema, and new musical instruments. His designs span the realms of graphic, web, data visualisation, and interaction, further enhanced by his work works in VR, AR, net.art, web art, mixed media, conceptual art, and generative art. His filmmaking endeavours also contribute to his wide–ranging body of work.
+
+Earlier tactics employed by Laurenzo in the orchestration of his efforts involved holding positions at the [School of Creative Media](https://www.scm.cityu.edu.hk) (assistant professor), [The Broad Institute of MIT and Harvard](http://broadinstitute.org) (visiting scientist), [Microsoft Research](http://research.microsoft.com) (research fellow), [Carnegie Mellon University](http://cmu.edu) (visiting scholar), [Brunel University](http://www.brunel.ac.uk) (guest lecturer), [Ericsson](https://www.ericsson.com/en) (visiting researcher), [University of Iowa](https://uiowa.edu) (visiting artist), [Stochastic Labs](http://stochasticlabs.org) (artist in residence), and [INRIA](https://www.inria.fr/en) (research intern), among others.
+
+During his tenure as associate professor at [University of the Republic](https://udelar.edu.uy/portal/), Laurenzo founded and directed both the Engineering School’s media lab (_Laboratorio de Medios_) and the university’s Research Group on Human–Computer Interaction.
+
+Mostly due to geographic and temporal serendipity, Laurenzo’s contributions in Uruguay have been considered groundbreaking, having led to the establishment of the first academic units working on art and technology, as well as the first first undergraduate and graduate courses, and mentoring of grad students. Furthermore, Laurenzo's own studentship produced Uruguay’s inaugural PhD and MSc theses in new media art, marking pioneering efforts in Latin America.
+
+While Laurenzo harbours deep gratitude to everyone who has collaborated with his life, particular acknowledgment is extended to [Dr. Alvaro Cassinelli](http://www.alvarocassinelli.com), University of Tokyo, and [Dr. Sergi Jordà](https://www.upf.edu/web/sergi-jorda), Universitat Pompeu Fabra, for their valuable roles as advisors of his PhD and MSc in Computer Science studies, which where executed within Uruguay's [Basic Sciences Development Program, PEDECIBA](https://www.pedeciba.edu.uy/en/).
