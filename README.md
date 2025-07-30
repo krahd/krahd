@@ -1,7 +1,7 @@
 # Tom
 **Tomas Laurenzo**’s life combines work and other activities which, through an ever-changing configuration of re-entrant processes of feedback and tension, aim to realise positive changes in the human condition.
 
-Laurenzo's efforts are mainly organised through serving as Associate Professor of Critical Media Practices at the [College of Media, Communication and Information](https://www.colorado.edu/cmci), [University of Colorado Boulder](https://www.colorado.edu), often taking the form of academic research, artistic practice, public speaking, and teaching.
+Laurenzo's efforts are mainly organised through serving as Associate Professor of Critical Media Practices at the [College of Communication, Media, Design and Information](https://www.colorado.edu/cmdi), [University of Colorado Boulder](https://www.colorado.edu), often taking the form of academic research, artistic practice, public speaking, and teaching.
 
 His academic pursuits embrace various epistemological frameworks, enabling research in areas such as artificial intelligence, human-computer interaction, virtual reality, augmented reality, art theory, human perception, data visualisation, cognitive psychology, political science, philosophy, visualisation, computer graphics, digital lutherie, and aesthetics.
 
